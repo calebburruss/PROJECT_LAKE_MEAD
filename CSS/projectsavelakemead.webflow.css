@@ -1,0 +1,161 @@
+.button {
+    width: 175px;
+    height: 43px;
+    margin-left: 114px;
+    background-color: #fff;
+    color: #00798f;
+  }
+  
+  .button.button1 {
+    width: 210px;
+    margin-top: -74px;
+    padding-top: 12px;
+    padding-left: 38px;
+    border-radius: 20px;
+    font-size: 24px;
+  }
+  
+  .body {
+    overflow: visible;
+    background-color: #fcf4e5;
+  }
+  
+  .container {
+    background-color: #ff681f;
+  }
+  
+  .container.width {
+    height: 320px;
+    max-height: 87.98828125vh;
+    max-width: 940vw;
+  }
+  
+  .image {
+    position: static;
+    overflow: hidden;
+    width: 25%;
+    max-width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+  
+  .image.height {
+    width: 100vw;
+    height: 100vh;
+    max-height: 100vh;
+    max-width: 100vw;
+    min-height: 100vh;
+    min-width: 100vw;
+    margin-top: -3px;
+    margin-left: 3px;
+    padding-top: 0px;
+  }
+  
+  .section {
+    width: 100vw;
+    height: 100vh;
+    max-width: 200vw;
+    min-width: 100px;
+  }
+  
+  .paragraph {
+    width: 80%;
+    height: 80%;
+    margin-top: 14px;
+    margin-left: 115px;
+    padding-top: 0px;
+    color: #fff;
+    font-size: 36px;
+    line-height: 50px;
+  }
+  
+  .navbar {
+    margin-top: -70px;
+    padding-top: 84px;
+    background-color: #fcf4e5;
+  }
+  
+  .nav-link {
+    color: #00798f;
+    font-size: 18px;
+  }
+  
+  .nav-link-2 {
+    margin-top: -2px;
+    padding-top: 23px;
+    color: #00798f;
+    font-size: 18px;
+  }
+  
+  .nav-link-3 {
+    color: #00798f;
+    font-size: 18px;
+  }
+  
+  .head {
+    width: 160%;
+    margin-top: 37px;
+    margin-left: -285px;
+    font-size: 45px;
+    letter-spacing: 4px;
+  }
+  
+  .twitter {
+    margin-top: 103px;
+  }
+  
+  .text-block {
+    margin-top: 52px;
+  }
+  
+  .text-block-2 {
+    margin-top: 46px;
+    margin-left: -252px;
+    color: #ff681f;
+  }
+  
+  .one {
+    width: 150%;
+    margin-left: -252px;
+    font-size: 16px;
+    line-height: 35px;
+  }
+  
+  .b1 {
+    width: 90%;
+    margin-top: 38px;
+    padding-right: 208px;
+    padding-left: 189px;
+    border-radius: 20px;
+    background-color: #ff681f;
+  }
+  
+  .image-2 {
+    width: 15%;
+    margin-top: -46px;
+    margin-bottom: -81px;
+    margin-left: -437px;
+    padding-top: 0px;
+  }
+  
+  .text-block-3 {
+    width: 99.9996207%;
+    margin-top: 17px;
+    margin-right: 33px;
+    margin-left: -701px;
+    padding-top: 0px;
+    padding-right: 4px;
+  }
+  
+  .container-2 {
+    width: 50%;
+    margin-top: -1px;
+    margin-left: 544.125px;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+  
+  .container-3 {
+    max-height: 931.25vh;
+    max-width: 940vh;
+  }
